@@ -1,7 +1,7 @@
 import { useFeaturedBanners } from './utils/hooks/useFeaturedBanners';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import { HomePage } from './screens/HomePage';
+import { HomePage } from './pages/HomePage';
 import './css/styles.css'
 
 
