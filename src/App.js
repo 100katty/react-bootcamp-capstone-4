@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <Header
-         title="Pick decoraciones"
+         title="Catherine's Decoration"
          description= "Ecommerce de venta de muebles y decoraciones"
       />
       <HomePage/>
