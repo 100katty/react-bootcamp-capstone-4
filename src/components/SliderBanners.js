@@ -39,7 +39,7 @@ export default function SliderBanners(props) {
             className={slideIndex === index + 1 ? "slide active-anim" : "slide"}
             >
                 <img src={banner.data.main_image.url} 
-                alt={banner.data.title} key={banner.id}/>
+                alt={banner.data.title}/>
             </div>
         )
     })}

@@ -191,3 +191,8 @@
   margin-bottom: 80px;
 
 }
+.container-Prods-List{
+  width: 100%;
+  display: flex;
+  
+}
